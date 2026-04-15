@@ -18,3 +18,6 @@ This project analyzes supply chain data and builds predictive models to forecast
 - Identified key trends in supply chain performance
 - Built forecasting models for future demand
   
+git add .
+git commit -m "Initial project upload"
+git push origin main
